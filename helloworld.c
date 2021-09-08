@@ -3,5 +3,5 @@
 void main()
 {
 	printf("Hello world");
-	printf("Welcome");
+	printf("Welcome to web app");
 }
